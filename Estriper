@@ -29,3 +29,8 @@ editor.pack(expand=True, fill="both")
 
 root.config(menu=menu)
 root.mainloop()
+
+
+
+
+print("Gorbunov Menshakov")
